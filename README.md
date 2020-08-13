@@ -1,2 +1,1 @@
-# notas-investigacion-reproducible
-tarea 1 de programación
+#Notas sobre investigación reproducible y análisis de datos
